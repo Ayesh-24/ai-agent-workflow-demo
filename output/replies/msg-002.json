@@ -1,0 +1,10 @@
+{
+  "id": "msg-002",
+  "source_file": "messages/inbox/msg-002.txt",
+  "received_at": "2026-11-24T07:59:47.372855+00:00",
+  "classification": "order",
+  "prompt_template_used": "You are a helpful assistant for a Claude Code / AI automation seller.\nClassify the customer message as one of: order, inquiry, support.\nThen draft a short, polite reply that:\n- answers the question or...",
+  "message": "Hello, I want to order an automation that syncs new Shopify orders to Google Sheets every hour. Can you build that?",
+  "draft_reply": "Hi, thank you for your message! Yes, I can build that automation for you — syncing new orders to Google Sheets on a schedule is exactly the kind of workflow I set up. Please message me before ordering with your store details and how often you want the sync to run, and I will confirm the plan and timeline.",
+  "status": "synced"
+}

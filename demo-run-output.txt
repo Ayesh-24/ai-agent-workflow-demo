@@ -1,0 +1,26 @@
+============================================================
+  CLAUDE CODE AI AGENT — Trigger -> AI Agent -> Sync
+============================================================
+
+[1] TRIGGER  New message detected: msg-001.txt
+    "Hi! What is the price of your Standard AI Agent Setup package, and how long does..."
+[2] AI AGENT  Classified as: INQUIRY
+    Draft reply ready (238 chars)
+[3] SYNC     Saved: output/replies/msg-001.json
+
+[1] TRIGGER  New message detected: msg-002.txt
+    "Hello, I want to order an automation that syncs new Shopify orders to Google She..."
+[2] AI AGENT  Classified as: ORDER
+    Draft reply ready (306 chars)
+[3] SYNC     Saved: output/replies/msg-002.json
+
+[1] TRIGGER  New message detected: msg-003.txt
+    "Hi, the automation stopped syncing yesterday and I need help fixing it. Can you ..."
+[2] AI AGENT  Classified as: SUPPORT
+    Draft reply ready (199 chars)
+[3] SYNC     Saved: output/replies/msg-003.json
+
+[3] SYNC     Summary written: output/summary.md
+    Log appended: output/log.jsonl (3 records)
+
+Done — 3 message(s) processed. No API key used.

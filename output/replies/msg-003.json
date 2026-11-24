@@ -1,0 +1,10 @@
+{
+  "id": "msg-003",
+  "source_file": "messages/inbox/msg-003.txt",
+  "received_at": "2026-11-24T07:59:47.373230+00:00",
+  "classification": "support",
+  "prompt_template_used": "You are a helpful assistant for a Claude Code / AI automation seller.\nClassify the customer message as one of: order, inquiry, support.\nThen draft a short, polite reply that:\n- answers the question or...",
+  "message": "Hi, the automation stopped syncing yesterday and I need help fixing it. Can you take a look?",
+  "draft_reply": "Hi, I am sorry the automation stopped syncing — I can take a look. Please message me before ordering with the error you see (if any) and when it last worked, and I will check the workflow and fix it.",
+  "status": "synced"
+}
