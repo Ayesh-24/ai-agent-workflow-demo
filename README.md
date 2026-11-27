@@ -5,7 +5,7 @@ A small, real, working portfolio demo for the Fiverr gig
 
 - **Fiverr gig:** https://www.fiverr.com/ashu1239/be-your-claude-code-expert-and-set-up-ai-agents-mcp-servers-and-automations
 - **Workflow video:** `fiverr-workflow-video.mp4` (66 seconds, Trigger → AI Agent → Sync) — the same video on the gig page
-- **Author:** Ayesha Madni — BS IT
+- **Author:** Ayesha Madni
 - **Skills shown:** Claude Code, AI agents, MCP servers, Python, automation
 
 ## About this project
